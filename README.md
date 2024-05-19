@@ -1,16 +1,41 @@
-### Hi there 👋
+<!-- Welcome !-->
+<div align="center"> 
+  <h3> 
+    <samp> &gt; Hi, My name is Cristian!</samp> 
+  </h3> 
+</div>
 
-<!--
-**zcriticz/zcriticz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!--Social Media !-->
+<div align="center"> 
+  <h3> 
+    <samp>「 Who I am beyond the code 」</samp> 
+  </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/> 
+  
+<a href="https://www.linkedin.com/in/devcristian/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"/></a>
+<a href="https://www.instragram.com/chris.saant"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="30" alt="instagram logo"/></a>
+
+</div> 
+
+<br/>
+
+## About 
+Full stack developer with extensive experience in developing scalable and responsive web applications. I am passionate about creating technological solutions that solve real problems and add value to users. Always willing to evolve, I dedicate hours of my day to studying programming and user experience.
+
+<br/>
+
+### Contact me
+📧&emsp; Reach me anytime: zcriticz.dev@gmail.com <br/> <br/>
+💬&emsp; Ask me about anything [here](https://github.com/zcriticz/zcriticz/issues) <br/> <br/>
+
+ ### Top Open-Source
+[![Hyphen](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=Pluton&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/pluton)
+[![NutriLife](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=NutriLife&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/nutrilife)
+
+
+<div align="left"> 
+<a href="https://github.com/zcriticz?tab=repositories" target="_blank"> <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></img></a> 
+</div>
