@@ -33,14 +33,18 @@ Full stack developer with extensive experience in developing scalable and respon
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/> <br/>
 
  ## Top Open-Source
-[![Hyphen](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=Pluton&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/pluton)
-[![Hyphen](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=nutrilife&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/nutrilife)
+[![NutriLife](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=nutrilife&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/nutrilife)
 
 <div align="left"> 
   <a href="https://github.com/zcriticz?tab=repositories" target="_blank"> <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></img></a> 
